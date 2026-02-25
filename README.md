@@ -1,6 +1,14 @@
-# MUI React Starter
+# Dota 2 Heroes Browser
 
-Simple React + TypeScript starter using Vite and Material UI.
+React + TypeScript app that lists Dota 2 heroes with search and filters, backed by the OpenDota API.
+
+Hosted URL: https://ai-codex-test-dota-2.onrender.com/
+
+## Created with Codex
+
+This project was created collaboratively with Codex (GPT-5 based coding agent). Prompts are intentionally not included.
+
+Time spent: Not tracked automatically. Update this line with the actual total time once confirmed.
 
 ## Quick start
 
@@ -16,10 +24,16 @@ Simple React + TypeScript starter using Vite and Material UI.
    npm run dev
    ```
 
-## Included
+## Build & preview
 
-- React + TypeScript (strict mode)
-- Vite for local development/builds
-- Material UI with custom theme + `CssBaseline`
-- ESLint (flat config) with TypeScript + React hooks rules
+```bash
+npm run build
+npm run preview
+```
 
+## Tech stack
+
+- React + TypeScript
+- Vite
+- Material UI
+- OpenDota API (`heroStats` endpoint)
