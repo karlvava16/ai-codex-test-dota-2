@@ -8,7 +8,7 @@ Hosted URL: https://ai-codex-test-dota-2.onrender.com/
 
 This project was created collaboratively with Codex (GPT-5 based coding agent). Prompts are intentionally not included.
 
-Time spent: Not tracked automatically. Update this line with the actual total time once confirmed.
+Time spent: 53 minutes (from 21:22 to 22:15 EET on Feb 25, 2026).
 
 ## Quick start
 
